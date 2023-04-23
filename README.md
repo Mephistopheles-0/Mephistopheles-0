@@ -25,7 +25,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-<img align = "right" width = "20%" src = "https://38.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"/>\
+
 
 
 ## 💻 IDEs/Editors
@@ -45,10 +45,12 @@
   <img src="https://www.betterbuys.com/wp-content/uploads/2015/07/IBM.png" style="float:right; width:7%;">
   <p style="float:left; width:70%;"> - <code>IBM</code> Data Science Professional Certificate</p>
   <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/67/dfedb83a7341b0927a05af4ebb1c14/LogoFiles_DeepLearning_Coursera_wide.png?auto=format%2Ccompress&dpr=1" style="float:right; width:15%;">
-  <p style="float:left; width:70%;"> - <code>DeepLearning.AI</code> Machine Learning Specialization</p>
-  <p style="float:left; width:70%;"> - <code>DeepLearning.AI</code> Deep Learning Learning Specialization</p>
-  <p style="float:left; width:70%;"> - <code>DeepLearning.AI</code> Tensorflow Developer Specialization</p>
+  <p style="float:left; width:70%;">  - <code>DeepLearning.AI</code> Machine Learning Specialization</p>
+  <p style="float:left; width:70%;">  - <code>DeepLearning.AI</code> Deep Learning Learning Specialization</p>
+  <p style="float:left; width:70%;">  - <code>DeepLearning.AI</code> Tensorflow Developer Specialization</p>
   <img src="https://www.denverprintingcompany.com/wp-content/uploads/2016/09/UofLondon_logo.png" style="float:right; width:7%;">
-  <p style="float:left; width:70%;"> - <code>University of London</code> Data Science Foundations</p>
-  
+  <p style="float:left; width:70%;">  - <code>University of London</code> Data Science Foundations</p>
+  <img src="https://www.nwoinnovation.ca/upload/images/freecodecamp-alternative-01.png" style="float:right; width:21%;">
+  <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Data Analysis with Python</p>
+  <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Relational Databases Developer</p>  
 </div>
