@@ -25,7 +25,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-<img align = "right" width = "17%" src = "https://38.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"/>\
+<img align = "right" width = "20%" src = "https://38.media.tumblr.com/d98c7e0c53e1aaa8521ddcb31a421373/tumblr_nbyrlaLLDw1s141c3o1_r1_400.gif"/>\
 
 
 ## 💻 IDEs/Editors
