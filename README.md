@@ -46,7 +46,7 @@
   <p style="float:left; width:70%;"> - <code>IBM</code> Data Science Professional Certificate</p>
   <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/67/dfedb83a7341b0927a05af4ebb1c14/LogoFiles_DeepLearning_Coursera_wide.png?auto=format%2Ccompress&dpr=1" style="float:right; width:15%;">
   <p style="float:left; width:70%;">  - <code>DeepLearning.AI</code> Machine Learning Specialization</p>
-  <p style="float:left; width:70%;">  - <code>DeepLearning.AI</code> Deep Learning Learning Specialization</p>
+  <p style="float:left; width:70%;">  - <code>DeepLearning.AI</code> Deep Learning Specialization</p>
   <p style="float:left; width:70%;">  - <code>DeepLearning.AI</code> Tensorflow Developer Specialization</p>
   <img src="https://www.denverprintingcompany.com/wp-content/uploads/2016/09/UofLondon_logo.png" style="float:right; width:7%;">
   <p style="float:left; width:70%;">  - <code>University of London</code> Data Science Foundations</p>
