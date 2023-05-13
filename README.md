@@ -52,7 +52,8 @@
   <p style="float:left; width:70%;">  - <code>University of London</code> Data Science Foundations</p>
   <img src="https://www.nwoinnovation.ca/upload/images/freecodecamp-alternative-01.png" style="float:right; width:21%;">
   <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Data Analysis with Python</p>
-  <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Relational Databases Developer</p>  
+  <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Relational Databases Developer</p> 
+  <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Machine Learning with Python</p>  
 </div>
 
 <hr>
