@@ -1,8 +1,18 @@
 # Wave hello to the world of machine learning, where even robots can do calculus better than us! 🤖🧮
 
-<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=Mephistopheles-0&show_icons=true&theme=radical"/>
+### &#x1f4c8; GitHub Stats
+<div>
+  <img Width="312" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mephistopheles-0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact&hide=jupyter%20notebook,kotlin,Dockerfile,html,javascript,tex,css,php,hack&card_width=245"/>
+  <img Height="201" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=Mephistopheles-0&show_icons=true&line_height=28&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</div>
 
-<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mephistopheles-0&layout=compact"/>
+<details>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Mephistopheles-0&theme=chalk&column=2&row=2&margin-w=0&margin-h=1"/>
+    <img Width="560" style="object-fit: stretch;" src="https://streak-stats.demolab.com?user=Mephistopheles-0&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+</div>
+<img Width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mephistopheles-0&theme=dracula">
+</details>
 
 # 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
