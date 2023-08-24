@@ -62,7 +62,9 @@
   <img src="https://www.nwoinnovation.ca/upload/images/freecodecamp-alternative-01.png" style="float:right; width:21%;">
   <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Data Analysis with Python</p>
   <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Relational Databases Developer</p> 
-  <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Machine Learning with Python</p>  
+  <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Machine Learning with Python</p>
+  <img src="https://uwm.edu/r2d2/wp-content/uploads/sites/438/2022/03/columbia-university-logo-noback.png" style="float:right; width:21%;">
+  <p style="float:left; width:70%;">  - <code>Columbia University</code> Financial Engineering and Risk Management Specialization</p> 
 </div>
 
 <hr>
