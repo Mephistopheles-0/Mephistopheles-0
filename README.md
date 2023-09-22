@@ -50,21 +50,21 @@
 
 <div>
   <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" style="float:right; width:7%;">
-  <p style="float:left; width:70%;"> - <code>Google</code> Data Analytics Specialization</p>
+  <p style="float:left; width:50%;"> - <code>Google</code> Data Analytics Specialization</p>
   <img src="https://www.betterbuys.com/wp-content/uploads/2015/07/IBM.png" style="float:right; width:7%;">
-  <p style="float:left; width:70%;"> - <code>IBM</code> Data Science Professional Certificate</p>
+  <p style="float:left; width:50%;"> - <code>IBM</code> Data Science Professional Certificate</p>
   <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/67/dfedb83a7341b0927a05af4ebb1c14/LogoFiles_DeepLearning_Coursera_wide.png?auto=format%2Ccompress&dpr=1" style="float:right; width:15%;">
-  <p style="float:left; width:70%;">  - <code>DeepLearning.AI</code> Machine Learning Specialization</p>
-  <p style="float:left; width:70%;">  - <code>DeepLearning.AI</code> Deep Learning Specialization</p>
-  <p style="float:left; width:70%;">  - <code>DeepLearning.AI</code> Tensorflow Developer Specialization</p>
+  <p style="float:left; width:50%;">  - <code>DeepLearning.AI</code> Machine Learning Specialization</p>
+  <p style="float:left; width:50%;">  - <code>DeepLearning.AI</code> Deep Learning Specialization</p>
+  <p style="float:left; width:50%;">  - <code>DeepLearning.AI</code> Tensorflow Developer Specialization</p>
   <img src="https://www.denverprintingcompany.com/wp-content/uploads/2016/09/UofLondon_logo.png" style="float:right; width:7%;">
-  <p style="float:left; width:70%;">  - <code>University of London</code> Data Science Foundations</p>
+  <p style="float:left; width:50%;">  - <code>University of London</code> Data Science Foundations</p>
   <img src="https://www.nwoinnovation.ca/upload/images/freecodecamp-alternative-01.png" style="float:right; width:21%;">
-  <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Data Analysis with Python</p>
-  <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Relational Databases Developer</p> 
-  <p style="float:left; width:70%;">  - <code>FreeCodeCamp</code> Machine Learning with Python</p>
+  <p style="float:left; width:50%;">  - <code>FreeCodeCamp</code> Data Analysis with Python</p>
+  <p style="float:left; width:50%;">  - <code>FreeCodeCamp</code> Relational Databases Developer</p> 
+  <p style="float:left; width:50%;">  - <code>FreeCodeCamp</code> Machine Learning with Python</p>
   <img src="https://uwm.edu/r2d2/wp-content/uploads/sites/438/2022/03/columbia-university-logo-noback.png" style="float:right; width:21%;">
-  <p style="float:left; width:70%;">  - <code>Columbia University</code> Financial Engineering and Risk Management Specialization</p> 
+  <p style="float:left; width:50%;">  - <code>Columbia University</code> Financial Engineering and Risk Management Specialization</p> 
 </div>
 
 <hr>
