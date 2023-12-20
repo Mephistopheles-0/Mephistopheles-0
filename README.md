@@ -14,7 +14,6 @@
 <img Width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mephistopheles-0&theme=dracula">
 </details>
 
-![Snake animation](https://raw.githubusercontent.com/{Mephistopheles-0}/{Mephistopheles-0}/output/github-contribution-grid-snake-dark.svg)
 
 # 📋 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
